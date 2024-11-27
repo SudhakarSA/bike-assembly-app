@@ -1,0 +1,7 @@
+#Ignore temp and swp files
+*~
+*.swp
+*.tmp
+
+# Ignore npm modules
+node_modules*
